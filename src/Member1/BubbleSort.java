@@ -1,7 +1,7 @@
 package Member1;
 
 public class BubbleSort {
-    public static int steps = 0;
+	public static int steps = 0;
 
     public static int[] sort(int[] arr) {
         steps = 0; // Reset before sorting
