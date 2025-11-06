@@ -19,5 +19,10 @@ public class BubbleSort {
         System.out.println("Bubble Sort Steps: " + steps);
         return arr;
     }
+    public static int getSteps() {
+        return steps;
+    }
+}
+
 
     
