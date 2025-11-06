@@ -20,7 +20,4 @@ public class BubbleSort {
         return arr;
     }
 
-    public static int getSteps() {
-        return steps;
-    }
-}
+    
