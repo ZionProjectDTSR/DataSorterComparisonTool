@@ -16,9 +16,5 @@ public class BubbleSort {
                 }
             }
         }
-        System.out.println("Bubble Sort Steps: " + steps);
-        return arr;
-    }
-}
-
+        
     
